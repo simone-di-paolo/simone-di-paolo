@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **s.dipaolo90@gmail.com**
 
-- ⚡ Fun fact **I'm a guitarist, I do rock videogame OST covers and other things on Spotify & co.! Search me by Simone Di Paolo - SDP :)**
+- ⚡ Fun fact **I'm a guitarist, I do rock videogame OST covers and other things on Spotify & co.! <a href="">Follow me, click here! :)</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
