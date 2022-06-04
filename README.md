@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/simone-di-paolo?tab=repositories](https://github.com/simone-di-paolo?tab=repositories)
 
-- 📝 Sometimes you can read my posts on [https://www.simonedipaolo.it/blog/](https://www.simonedipaolo.it/blog/)
+- 📝 Sometimes you can read my posts on <a href="https://bit.ly/3mkIPJW" target="_blank">my blog!</a>
 
 - 💬 Ask me about **Java,JS, React (and just a little Python!)**
 
 - 📫 How to reach me **s.dipaolo90@gmail.com**
 
-- ⚡ Fun fact **I'm a guitarist, I do rock videogame OST covers and other things on Spotify & co.! <a href="">Follow me, click here! :)</a>**
+- ⚡ Fun fact **I'm a guitarist, I do rock videogame OST covers and other things on Spotify & co.! <a href="https://spoti.fi/3GShYyk" target="_blank">Follow me, click here!</a> :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
