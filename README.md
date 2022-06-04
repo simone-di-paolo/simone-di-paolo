@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **s.dipaolo90@gmail.com**
 
-- ⚡ Fun fact **I'm a guitarist, I do rock videogame OST covers and other things on Spotify & co.! <a href="https://spoti.fi/3GShYyk" target="_blank">Follow me, click here!</a> :)**
+- ⚡ Fun fact! => **I'm a guitarist, I do rock videogame OST covers and other things on Spotify & co.! <a href="https://spoti.fi/3GShYyk" target="_blank">Follow me, click here!</a> :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
