@@ -9,7 +9,7 @@
 
 - 📝 Sometimes you can read my posts on <a href="https://bit.ly/3mkIPJW" target="_blank">my blog!</a>
 
-- 💬 Ask me about **Java,JS, React (and just a little Python!)**
+- 💬 Ask me about **Java or JS (and just a little Python!)**
 
 - 📫 How to reach me **s.dipaolo90@gmail.com**
 
